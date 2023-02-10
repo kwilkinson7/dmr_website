@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>www.digitalmindrobotics.com/</loc>
+    <lastmod>2023-02-09T14:55:45-06:00</lastmod>
+  </url><url>
+    <loc>www.digitalmindrobotics.com/projects/</loc>
+    <lastmod>2023-02-09T14:55:45-06:00</lastmod>
+  </url><url>
+    <loc>www.digitalmindrobotics.com/posts/</loc>
+  </url><url>
+    <loc>www.digitalmindrobotics.com/about/</loc>
+  </url><url>
+    <loc>www.digitalmindrobotics.com/projects/ros2_ugv/</loc>
+    <lastmod>2023-02-09T14:55:45-06:00</lastmod>
+  </url><url>
+    <loc>www.digitalmindrobotics.com/projects/flight_logger/</loc>
+    <lastmod>2023-02-09T14:55:45-06:00</lastmod>
+  </url><url>
+    <loc>www.digitalmindrobotics.com/categories/</loc>
+  </url><url>
+    <loc>www.digitalmindrobotics.com/tags/</loc>
+  </url>
+</urlset>

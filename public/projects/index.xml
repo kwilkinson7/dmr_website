@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Digital Mind Robotics</title>
+    <link>www.digitalmindrobotics.com/projects/</link>
+    <description>Recent content in Projects on Digital Mind Robotics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Feb 2023 14:55:45 -0600</lastBuildDate><atom:link href="www.digitalmindrobotics.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ROS2 UGV</title>
+      <link>www.digitalmindrobotics.com/projects/ros2_ugv/</link>
+      <pubDate>Thu, 09 Feb 2023 14:55:45 -0600</pubDate>
+      
+      <guid>www.digitalmindrobotics.com/projects/ros2_ugv/</guid>
+      <description>Github project link</description>
+    </item>
+    
+    <item>
+      <title>Flight Logger</title>
+      <link>www.digitalmindrobotics.com/projects/flight_logger/</link>
+      <pubDate>Thu, 09 Feb 2023 14:55:45 -0600</pubDate>
+      
+      <guid>www.digitalmindrobotics.com/projects/flight_logger/</guid>
+      <description>Coming Soon </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+baseURL: "www.digitalmindrobotics.com"
+languageCode: en-us
+title: Digital Mind Robotics
+theme: "hugo-theme-learn"
+# outputs:
+#   home: [ "HTML", "RSS", "JSON"]
+
+params: 
+  # Author of the site, will be used in meta information
+  author: "Kendall Wilkinson"
+  showVisitedLinks: false
+  disableSearch: true
+  disableLandingPageButton: false
+  disableBreadcrumb: true
+  disableNextPrev: false
+  # Order sections in menu by "weight" or "title". Default to "weight"
+  ordersectionsby: "weight"
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant: "mine"
+  # Provide a list of custom css files to load relative from the `static/` folder in the site root.
+  # custom_css = ["css/foo.css", "css/bar.css"]
+  # Change the title separator. Default to "::".
+  titleSeparator: " "
+
+menu:
+  shortcuts:
+    - name: <i class='fab fa-github'></i> Github
+      identifier: ds
+      url: 'https://github.com/kwilkinson7/kwilkinson7'
+      weight: 10
+    - name: <i class="fab fa-linkedin"></i> Linkedin
+      url: 'https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin'
+      weight: 11
+    - name: <i class="fas fa-envelope"></i> E-mail
+      url: 'mailto:kendall.wilkinson@gmail.com'
+      weight: 12
+
