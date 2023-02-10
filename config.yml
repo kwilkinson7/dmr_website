@@ -1,6 +1,6 @@
 baseURL: ""
 languageCode: en-us
-title: Digital Mind Robotics
+title: 
 theme: "hugo-theme-learn"
 # outputs:
 #   home: [ "HTML", "RSS", "JSON"]
