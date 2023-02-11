@@ -7,7 +7,7 @@ weight: 3
 
 ## Bio
 
-![Me](/images/profile.jpg?height=500)
+![Me](/images/profile.jpg?width=500)
 
 Welcome. I'm Kendall, a software developer and robotics engineer.  I have worked in automation, mostly in the oil and gas industry, for 15 years.  More recently, I worked on several projects in the Space Industry. I served in the military for 9 years. I am a life-long learner and strive to be an expert problem solver.  I have had one version or another of the engineering problem solving process in my work area my entire career.  The most important step is "defining the problem."  As a goal oriented individual, I find that the more clearly defined goals are, the more likely they are to be acheived.  
 + Define the problem
@@ -34,7 +34,7 @@ I began my career in automation working for a mudlogging company.  The objective
 
 Mudboss utilized a persitaltic pump, a coriolis meter, an inline viscometer and a self-cleaning system utilizing pinch valves.  The destructive nature of drilling fluid was taken into consideration for every component.
 
-![Mudboss GUI](/images/mudbossgui.jpg?height=500)
+![Mudboss GUI](/images/mudbossgui.jpg?width=500)
 
 The GUI was written in Visual Basic 6 and used MS Excel for logging and analyzing data.  The code was later re-written in Java with an MS Access database.
 
@@ -47,7 +47,7 @@ In 2017, after getting my BS in Controls and Instrumentation Engineering Technol
 ![iRacker](/images/racker.jpg?height=500)
 
 The mulit-function arm was a smaller robotic arm, used for supporting operations such as greasing joints and catching drilling fluid when breaking connections.  
-![MFA](/images/mfa.jpg?height=500)
+![MFA](/images/mfa.jpg?width=500)
 
 ## Space Industry
 In 2021, I started working for Barrios Technology as a NASA contractor at Johnson Space Center.  I worked in the Simulated Remote Workstation (SRWS) lab, testing design changes to the user interface for flying the Space Station Remote Manipulator System (SSRMS).  I also worked for small space robotics startup where I contributed to software to interface with the Common Berthing Mechanism on a new commercial space station
@@ -62,7 +62,6 @@ I graduated with my BS in 2017 after working in my career for 9 years.  In 2022,
 
 ## Military Service
 
-![MFA](/images/Army.png?height=500)
 I joined the Army Reserves in 2001, shortly after 9/11.  I served 2 tours in Iraq, my second as a Sergeant and assistant squad leader.  As a 21W (Carpentry and Masonry Specialist), I was responsible for leading a team to complete a number of construction projects.  I finished all of my projects early or on-time and received an Army Commendation Medal (ARCOM).  I spent my last 3 years of service in the Rhode Island and Texas National Guard as an Infantryman in Long-range surveillance (LRS) units.  [LRS](https://en.wikipedia.org/wiki/Long-range_surveillance) units were highly trained Airborne Ranger units, specializing in reconnaissance. LRS units started their history as [LRRP](https://en.wikipedia.org/wiki/Long-range_reconnaissance_patrol) and have a long and interesting past.  All LRS units have been phased out and are no more.
 
 {{%attachments style="green" /%}}
