@@ -38,7 +38,7 @@ Mudboss utilized a persitaltic pump, a coriolis meter, an inline viscometer and 
 
 The GUI was written in Visual Basic 6 and used MS Excel for logging and analyzing data.  The code was later re-written in Java with an MS Access database.
 
-![Active Filter](/images/activefilter.jpg?height=500)
+![Active Filter](/images/activefilter.jpg?width=500)
 An active filter of my own design consisted of a tungsten carbide plate and rotating blade to remove cuttings and avoid damaging the system.  Without the filter, the system would clog instantly.
 
 ### Drilling Rig Automation
