@@ -8,7 +8,7 @@ weight: 1
 
 ![robots](/images/robots.jpg?width=500)
 
-Digital Mind Robotics is my portfolio and blog where I share my thoughts on the latest trends in technology and details of the projects I am working on.  Through my professional experience, I have worked on some incredible projects but I also enjoy building things as a hobby and utilizing technology in creative ways.  My primary technologies are Python, C/C++ and Robotic Operating System [(ROS)](https://docs.ros.org/en/humble/index.html).  I am currently learning Tensorflow and RTOS.  Contact me to collaborate on cool projects.
+Welcome to Digital Mind Robotics, your gateway to exploring my journey and passion for technology. Within this portfolio, I share some things about myself and details of the projects I am working on. With a robust background in technology, I've contributed to remarkable projects, merging professional expertise with a personal love for building and creating.  My primary technologies are Python, C/C++ and Robotic Operating System [(ROS)](https://docs.ros.org/en/humble/index.html).  I am currently learning Tensorflow and RTOS.  Contact me to collaborate on cool projects.
 
 ## About this website
 
